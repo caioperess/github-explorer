@@ -4,7 +4,7 @@
 
 ## 💻 About
 
-📁 GitHub Explore - Single page application ( SPA ) built with ReactJS and TypeScript to explore GitHub repositories. This project enables you to save and list repositories and offers an easy way to access the repository issues page.
+📁 GitHub Explorer - Single page application ( SPA ) built with ReactJS and TypeScript to explore GitHub repositories. This project enables you to save and list repositories and offers an easy way to access the repository issues page.
 It was built as an exercise of Rocketseat's GoStack Bootcamp to put in practice the studies of ReactJS, React Hooks, Styled Components, React Router Dom, responsive layout and GitHub Pages for deploy.
 This project connects to GitHub official API to get the data.
 
